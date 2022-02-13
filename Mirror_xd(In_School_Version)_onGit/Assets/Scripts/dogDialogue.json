@@ -1,0 +1,219 @@
+{
+    "dogDialogues": [
+        {
+            "Chapter": 1,
+            "dia": [
+                {
+                    "trigger": "enter_back",
+                    "txt": [
+                        {
+                            "content": "想踢我？想都別想!",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "不要拿你的髒手碰我！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "走開!快去想點辦法！",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "click_guest",
+                    "txt": [
+                        {
+                            "content": "快去找回GUEST五個字母！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "想在虛擬世界使用道具，右下角有按鈕可以開啟背包。",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "我都說這麼清楚了，難道是要我幫你玩嗎？",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "open_door",
+                    "txt": [
+                        {
+                            "content": "倉庫都打開了，還不快去找點線索！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "啊!灰塵跑進我眼睛裡了！",
+                            "emotion": "sad"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "get_e",
+                    "txt": [
+                        {
+                            "content": "王冠沒有彩蛋啦，不用再為每個角色戴上王冠了！",
+                            "emotion": "sad_water_normal"
+                        },
+                        {
+                            "content": "我們成本可是有限的！",
+                            "emotion": "sad_water_normal"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "get_g",
+                    "txt": [
+                        {
+                            "content": "還不快把字母放進GUEST！",
+                            "emotion": "angry_water_angry"
+                        },
+                        {
+                            "content": "煩死了，不要再摸我了！",
+                            "emotion": "angry_water_angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "get_guest",
+                    "txt": [
+                        {
+                            "content": "還不快去現實世界放入GUEST！",
+                            "emotion": "angry_water_angry"
+                        },
+                        {
+                            "content": "不要耽誤到我的下班時間！",
+                            "emotion": "angry_water_angry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Chapter": 2,
+            "dia": [
+                {
+                    "trigger": "chapter2",
+                    "txt": [
+                        {
+                            "content": "成本有限只能到門口了。",
+                            "emotion": "sad"
+                        },
+                        {
+                            "content": "如果喜歡就請多多支持餒！",
+                            "emotion": "lol"
+                        },
+                        {
+                            "content": "粉絲團記得按讚與追蹤我們！",
+                            "emotion": "lol"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "open_safe",
+                    "txt": [
+                        {
+                            "content": "帳號除了拿東西、放東西外，到底還能幹嘛？",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "真不知道帳號幾時才能發揮硬漢的人設。",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "open_raccoon",
+                    "txt": [
+                        {
+                            "content": "不要只看浣熊很可愛，他可是很兇的！",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "ming_dead",
+                    "txt": [
+                        {
+                            "content": "幫小明跟無情浣熊還有無數隻長頸鴨報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "我要讓木馬付出代價！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "絕對不會有原諒木馬的選項！",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "plumber_dead",
+                    "txt": [
+                        {
+                            "content": "幫小明跟無情浣熊還有無數隻長頸鴨報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "還有幫水電工報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "我要讓木馬付出代價！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "絕對不會有原諒木馬的選項！",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "bricks_dead",
+                    "txt": [
+                        {
+                            "content": "幫小明跟無情浣熊還有無數隻長頸鴨報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "還有幫大哥報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "我要讓木馬付出代價！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "絕對不會有原諒木馬的選項！",
+                            "emotion": "angry"
+                        }
+                    ]
+                },
+                {
+                    "trigger": "all_dead",
+                    "txt": [
+                        {
+                            "content": "幫小明跟無情浣熊還有無數隻長頸鴨報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "還有幫大哥跟水電工報仇！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "我要讓木馬付出代價！",
+                            "emotion": "angry"
+                        },
+                        {
+                            "content": "絕對不會有原諒木馬的選項！",
+                            "emotion": "angry"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

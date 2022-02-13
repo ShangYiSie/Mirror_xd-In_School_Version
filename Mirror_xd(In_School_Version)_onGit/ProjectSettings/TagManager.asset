@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - mora
+  - ClickToBlue
+  - Text
+  - Prop
+  - DesktopBackBtn
+  - FolderClickToBlue
+  - Frame
+  - PropsHighlight
+  - BtnNeedsPressedFx
+  - Ball
+  - Bricks1
+  - Bricks2
+  - Trashcan
+  - ZoominItem
+  - Donthide
+  - InvisibleWall
+  - Partical
+  - Ladder
+  - Landmineitems
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Desktop
+  - Frontside_frame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: City
+    uniqueID: 2536763783
+    locked: 0
+  - name: DogDialogue
+    uniqueID: 1674832817
+    locked: 0
+  - name: Item
+    uniqueID: 860867655
+    locked: 0
+  - name: PlayerBehindZoomin
+    uniqueID: 710876983
+    locked: 0
+  - name: Zoomin
+    uniqueID: 2355682845
+    locked: 0
+  - name: Player
+    uniqueID: 2817323353
+    locked: 0
+  - name: BackItem
+    uniqueID: 2084679687
+    locked: 0
+  - name: DuckAtk
+    uniqueID: 3964176479
+    locked: 0

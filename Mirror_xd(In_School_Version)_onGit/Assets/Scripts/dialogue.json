@@ -1,0 +1,781 @@
+{
+    "dialogues": [
+        {
+            "trigger": "back_first",
+            "txt": [
+                {
+                    "content": "你好！使用者，我是你的防毒軟體。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "在我上工講文本之前...",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "如果你是個不管劇情的使用者。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "「跳過劇情」不在這個畫面上！",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "需要的話，按下「esc」或「滑鼠中鍵」就會看到了。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "若想快速跳至下一句，可以「點擊」上面的字幕。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "以上功能都可以減少我的工作量。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "等一下...我想想要講哪段去了..",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "嗯...直到我的膝蓋..不對..",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "啊!是世界觀與目標...",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "好!使用者，你所在的是虛擬世界。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "在虛擬世界中你會化身為硬漢老爸 -「帳號」。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "你必須替他救回「密碼」與消滅木馬。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "接下來你要去尋找「其他辦法」，進入MYTH平台。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "希望你可以玩快一點，好讓我提早下班！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "backtofront_first",
+            "txt": [
+                {
+                    "content": "使用者，我是來完成份內的工作。",
+                    "emotion": "hi"
+                },
+                {
+                    "content": "我把「新手教學」放在 Watching Dog ，你有需要再打開來看看吧！",
+                    "emotion": "good"
+                },
+                {
+                    "content": "你這麼聰明，應該不需要吧！",
+                    "emotion": "taunt"
+                },
+                {
+                    "content": "點擊「對話框」也可以快速跳至下一句。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "after_back_first",
+            "txt": []
+        },
+        {
+            "trigger": "pickup_U",
+            "txt": [
+                {
+                    "content": "是剛剛在木馬腳上拿的磁鐵。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "難怪之前有個戴著綠色睡帽的小精靈問我有沒有看到他的磁鐵。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "問完後就翻遍我家的抽屜，還砸破我心愛的花瓶。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "氣得我咬了那小屁孩的屁股！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "click_GUEST_first",
+            "txt": [
+                {
+                    "content": "這塊破石板是「訪客登入」。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "但引發太多的BUG，上次更新後就被移除了。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "或許我們可以靠它進入MYTH平台。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "不過裡面的英文字母都不見了。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "現在只是沒用的破石板。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "get_bitcoin",
+            "txt": [
+                {
+                    "content": "看來很多人今晚要睡公園了！",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "to_folderback_first",
+            "txt": [
+                {
+                    "content": "現在我們在7414號倉庫...嗯..",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "我認得站在那邊的兩位大哥！",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "之前偷懶看電視，有轉到他們的實境秀。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "他們會買下倉庫再賣出裡面值錢的物品。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "想要打開倉庫，去問他們最快。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "click_door_keeper",
+            "txt": [
+                {
+                    "content": "怎麼會有人喜歡這種無厘頭的東西？",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_bitcoin",
+            "txt": [
+                {
+                    "content": "他們難道不知道狗狗幣現在一文不值了嗎？",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "open_folder_door",
+            "txt": [
+                {
+                    "content": "倉庫裡有一幅畫、更多數字和更多旗子...",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "還有一位巴西猛男！",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "使用者，看來你買到了奇奇怪怪的倉庫！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "to_opened_folder_first",
+            "txt": [
+                {
+                    "content": "使用者，這下覆水「男」收了！",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "open_strongman_pick_branch_window",
+            "txt": [
+                {
+                    "content": "我超級討厭那邊的村民。",
+                    "emotion": "u"
+                },
+                {
+                    "content": "因為我上次去那座島嶼度假。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "他們一直拿捕蟲網敲我的頭...",
+                    "emotion": "fire"
+                }
+            ]
+        },
+        {
+            "trigger": "get_shovel",
+            "txt": [
+                {
+                    "content": "現在的玩..使用者，怎麼老是喜歡亂拿別人的東西？",
+                    "emotion": "think"
+                },
+                {
+                    "content": "一定是綠帽小屁孩帶壞使用者的！",
+                    "emotion": "slience"
+                }
+            ]
+        },
+        {
+            "trigger": "open_landmines_window",
+            "txt": [
+                {
+                    "content": "一個已經玩完的踩地雷遊戲？",
+                    "emotion": "think"
+                },
+                {
+                    "content": "難怪他們會願意賣給你！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "pickup_bomb_and_T",
+            "txt": [
+                {
+                    "content": "小心啊！作業系統可承受不了爆炸的特效啊！",
+                    "emotion": "shock"
+                },
+                {
+                    "content": "不過也很「意外」得到字母T了！",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "open_mora_window_first",
+            "txt": [
+                {
+                    "content": "跟猛男玩剪刀、石頭、布？",
+                    "emotion": "think"
+                },
+                {
+                    "content": "你該不會連這個都贏不了吧，使用者？",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "lose_mora_first",
+            "txt": [
+                {
+                    "content": "你果然不會讓我失望。",
+                    "emotion": "haha"
+                },
+                {
+                    "content": "拜託，只是個猜拳遊戲。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "1/3機率就能贏的遊戲，看你要玩多久。",
+                    "emotion": "zzz"
+                }
+            ]
+        },
+        {
+            "trigger": "lose_mora_third",
+            "txt": [
+                {
+                    "content": "看來你不太適合玩遊戲。",
+                    "emotion": "haha"
+                },
+                {
+                    "content": "真希望這遊戲有無敵版或是一鍵通關。",
+                    "emotion": "yes"
+                },
+                {
+                    "content": "就不會讓我再加班了。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "kill_the_strongman",
+            "txt": [
+                {
+                    "content": "使用者，這裡可不是暴力電玩。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "如果你想搞破壞，就改玩虹彩六號之類的「裝潢」遊戲！",
+                    "emotion": "slience"
+                },
+                {
+                    "content": "算了，拯救密碼跟下班比較重要。",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "click_s",
+            "txt": [
+                {
+                    "content": "我們可能用的到這隻蚯蚓。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "bird_walk_in",
+            "txt": [
+                {
+                    "content": "快滾開！笨鳥，你擋到我的視線了！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "bird_get_s",
+            "txt": [
+                {
+                    "content": "可惡！這可不是你的零食！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "使用者，快去搶回來！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "get_E",
+            "txt": [
+                {
+                    "content": "幸好王冠是不可破壞物件。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "click_dog_house_poster",
+            "txt": [
+                {
+                    "content": "怎樣！不滿意就去花錢升級啊！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "免費仔！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "change_time_first",
+            "txt": [
+                {
+                    "content": "你改變了時間，使用者！",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "不過在虛擬世界是沒有晝夜之分的。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "真希望我能有停止時間的超能力，嘿嘿～",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "change_time_to_2pm",
+            "txt": [
+                {
+                    "content": "我突然有點睏了，使用者...",
+                    "emotion": "sad"
+                }
+            ]
+        },
+        {
+            "trigger": "open_cmailback_first",
+            "txt": [
+                {
+                    "content": "Cmail快遞公司是間壓榨員工的血汗企業！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "但還是比不過我待的保全公司。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "全年24小時無休無止的工作。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "他們外送員居然有下班的時間。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "也不用幫使用者擦屁股！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "bird_wakeup_and_eat_s",
+            "txt": [
+                {
+                    "content": "給我下來，那不是你的東西！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "嘴巴不許動！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "bird_sleep_and_get_s",
+            "txt": [
+                {
+                    "content": "下次在地上被我抓到！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "我一定送你去玩「獵鴨子」！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "after_get_s_and_toCmailfront",
+            "txt": []
+        },
+        {
+            "trigger": "click-cmail-left-fishing-mail",
+            "txt": [
+                {
+                    "content": "現在回頭還來得及，把鼠標移到右上方的紅色叉叉。",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "after_click_fishing_link",
+            "txt": [
+                {
+                    "content": "算了...橋到船頭自然直。",
+                    "emotion": "dead"
+                },
+                {
+                    "content": "千萬不要相信釣魚網站裡的任何資訊！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "到處都是陷阱！到處都是陷阱！到處都是陷阱！",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "show_big_prize_window",
+            "txt": [
+                {
+                    "content": "就這樣...",
+                    "emotion": "little_eye"
+                },
+                {
+                    "content": "還真是個「大獎」。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "你還是被耍了，使用者。",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "to_fishing_web_back",
+            "txt": [
+                {
+                    "content": "可憐的帳號密碼們，他們的使用者都跟你一樣...",
+                    "emotion": "water_angry"
+                },
+                {
+                    "content": "好騙！",
+                    "emotion": "water_angry"
+                }
+            ]
+        },
+        {
+            "trigger": "get_G",
+            "txt": [
+                {
+                    "content": "我想起來了，這類的怪物叫做禮物怪。",
+                    "emotion": "water_normal"
+                },
+                {
+                    "content": "是生活在地下城的寶箱怪的親戚。",
+                    "emotion": "water_normal"
+                },
+                {
+                    "content": "幸好你沒有把它給打開。",
+                    "emotion": "water_lol"
+                }
+            ]
+        },
+        {
+            "trigger": "complete_guest",
+            "txt": [
+                {
+                    "content": "終於可以進入MYTH平台了。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "趕快到現實世界放上去吧！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "put_on_guest_to",
+            "txt": [
+                {
+                    "content": "真是爛按鈕，難怪會被移除掉！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "^*%(*#@！",
+                    "emotion": "woof"
+                }
+            ]
+        },
+        {
+            "trigger": "to_connected_browser_back",
+            "txt": [
+                {
+                    "content": "使用者，我這邊就老實告訴你。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "因為開發者想偷懶，就貼個敬請期待敷衍了事。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "使用者，不用期待著某天更新後會實裝功能。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "除非我們連上其它的網站。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_dogecoin",
+            "txt": [
+                {
+                    "content": "我對一文不值的東西沒興趣！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_e",
+            "txt": [
+                {
+                    "content": "目前王冠只有放進石板凹槽的功能。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "沒辦法，開發者就是愛偷懶。",
+                    "emotion": "sad"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_g",
+            "txt": [
+                {
+                    "content": "你都已經拿到5個字母了！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "現在還不知道要幹麻嗎！？",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_gift",
+            "txt": [
+                {
+                    "content": "你人真好啊，使用者！",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "但我不想碰釣魚網站的任何東西。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_guest",
+            "txt": [
+                {
+                    "content": "按鈕給我幹麻啦！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "自己去放啦，懶惰蟲！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_bomb",
+            "txt": [
+                {
+                    "content": "離我遠一點，使用者！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "我可不想跟你玩傳炸彈遊戲。",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_s",
+            "txt": [
+                {
+                    "content": "走開啦！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "那東西噁心死了！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_shovel",
+            "txt": [
+                {
+                    "content": "你難道不知道鏟子的功能嗎？",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_t",
+            "txt": [
+                {
+                    "content": "這還要我解釋嗎？",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_u",
+            "txt": [
+                {
+                    "content": "磁鐵是許多遊戲裡會出現的元素。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "但我最愛的還是「薩爾達傳說」裡的磁鐵。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "give_dog_anything_in_water",
+            "txt": [
+                {
+                    "content": "大海冰冰涼涼的，好舒服阿~",
+                    "emotion": "water_lol"
+                },
+                {
+                    "content": "先不要煩我，使用者！",
+                    "emotion": "water_lol"
+                }
+            ]
+        },
+        {
+            "trigger": "give_doorkeeper_u_first",
+            "txt": [
+                {
+                    "content": "這磁鐵可是傳說的神器欸！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "不識貨的傢伙！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "put_u_on_mora",
+            "txt": [
+                {
+                    "content": "論磁場力你是贏不了他的！",
+                    "emotion": "read"
+                }
+            ]
+        },
+        {
+            "trigger": "put_t_on_mora",
+            "txt": [
+                {
+                    "content": "他還會使用煉成陣！",
+                    "emotion": "wow"
+                }
+            ]
+        },
+        {
+            "trigger": "put_shovel_on_mora",
+            "txt": [
+                {
+                    "content": "這是不可破壞的方塊！",
+                    "emotion": "read"
+                }
+            ]
+        },
+        {
+            "trigger": "put_s_on_mora",
+            "txt": [
+                {
+                    "content": "討人厭的鴿子！",
+                    "emotion": "u"
+                }
+            ]
+        },
+        {
+            "trigger": "u_trigger_e",
+            "txt": [
+                {
+                    "content": "看來你得跟他正面對決了！",
+                    "emotion": "think"
+                }
+            ]
+        }
+    ]
+}

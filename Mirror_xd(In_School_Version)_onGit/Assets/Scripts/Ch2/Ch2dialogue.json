@@ -1,0 +1,892 @@
+{
+    "dialogues": [
+        {
+            "trigger": "第一次進入正面",
+            "txt": [
+                {
+                    "content": "使用者，我現在有好消息跟壞消息要告訴你。",
+                    "emotion": "dog"
+                },
+                {
+                    "content": "壞消息是我們被困在 MYTH平台。",
+                    "emotion": "shock"
+                },
+                {
+                    "content": "也不知道木馬躲到哪裡去了。",
+                    "emotion": "slience"
+                },
+                {
+                    "content": "好消息是你終於可以玩到用密碼換到的免費遊戲。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "不過都是老遊戲的重製版。",
+                    "emotion": "no"
+                },
+                {
+                    "content": "當遊戲公司開始賣過去的作品。",
+                    "emotion": "think"
+                },
+                {
+                    "content": "大概知道這老狗變不出新把戲了！",
+                    "emotion": "u"
+                },
+                {
+                    "content": "只賣情懷不賣遊戲！",
+                    "emotion": "taunt"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次打開迪可夢，角色:小明",
+            "txt": [
+                {
+                    "content": "雖然我不是厲害的迪可夢訓練家。",
+                    "emotion": "little_eye"
+                },
+                {
+                    "content": "但小鬼頭居然拿出水屬性的長頸鴨，去對付雷屬性的迪可丘...",
+                    "emotion": "what"
+                },
+                {
+                    "content": "連五歲小孩都知道雷屬性克制水屬性。",
+                    "emotion": "slience"
+                },
+                {
+                    "content": "如果小鬼頭想成為迪可夢訓練家大師...",
+                    "emotion": "think"
+                },
+                {
+                    "content": "那只能開金手指了！",
+                    "emotion": "taunt"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用長頸鴨技能:捨身衝撞",
+            "txt": [
+                {
+                    "content": "其實我並不怎麼意外。",
+                    "emotion": "little_eye"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用長頸鴨技能:噴水",
+            "txt": [
+                {
+                    "content": "至少打出點傷害吧！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "真是個笨鴨子。",
+                    "emotion": "u"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用長頸鴨技能:泡沫",
+            "txt": [
+                {
+                    "content": "我勸小鬼頭放棄當迪可夢訓練家。",
+                    "emotion": "little_eye"
+                },
+                {
+                    "content": "然後回老家開洗車場，還比當訓練家有前途。",
+                    "emotion": "yes"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次替換長頸鴨",
+            "txt": [
+                {
+                    "content": "他到底還有幾隻長頸鴨？",
+                    "emotion": "what"
+                },
+                {
+                    "content": "他家是不是開養鴨場的！？",
+                    "emotion": "slience"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用道具愛心寶貝球後",
+            "txt": [
+                {
+                    "content": "想要收服迪可夢，需要消耗它的體力才行。",
+                    "emotion": "read"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次逃跑後",
+            "txt": [
+                {
+                    "content": "「逃跑」成功！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次沒放名牌並開啟遊戲",
+            "txt": [
+                {
+                    "content": "遊戲載入不到主角的檔案，然後就出BUG啦！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "警告通知都燒起來了，好燙好燙！",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "每次關閉error",
+            "txt": [
+                {
+                    "content": "小心點，使用者！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "不要把MYTH平台給燒了！",
+                    "emotion": "shock"
+                },
+                {
+                    "content": "火勢可能會燒到我家的！",
+                    "emotion": "cry"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次進到反面",
+            "txt": [
+                {
+                    "content": "遊戲主角們都個別在三扇門的後面。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "不過門都被開發者...不..是木馬拿蜂蜜黏住了。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "算了，我掰不下去了...",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "使用者，老實跟你說，門後什麼都沒有！",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "因為開發的成本只到門前。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "如果開發者沒有用蜂蜜黏住門。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "帳號就會踩空，直接掉出遊戲外。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "然後跟「整人專家」裡的成奎安一樣大喊「拉我上來阿！」",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "我的狗手可拉不動帳號啊！",
+                    "emotion": "sad"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次碰任何名牌",
+            "txt": [
+                {
+                    "content": "不要亂動別人的名牌，使用者！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "你會害遊戲的主角跑錯棚啊！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次把任何名牌裝在不是他的遊戲上",
+            "txt": [
+                {
+                    "content": "我每次說不要做什麼。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "但你還是都做了，對吧...",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次打開迪可夢，角色:水電工",
+            "txt": [
+                {
+                    "content": "師傅可不是迪可夢訓練家啊！",
+                    "emotion": "little_eye"
+                },
+                {
+                    "content": "他也只會修水管和換燈泡。",
+                    "emotion": "slience"
+                },
+                {
+                    "content": "而且連一個迪可夢都沒有，要怎麼跟迪可丘對戰？",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用水電工技能:跳躍",
+            "txt": [
+                {
+                    "content": "他沒去當跳高選手真是太可惜了。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次使用水電工道具:蘑菇",
+            "txt": [
+                {
+                    "content": "這位師傅真是幫了我們一個「大」忙啊！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "不過聽說迪可夢後來也有巨大化的玩法，沒想到這版本也有！",
+                    "emotion": "wow"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次打開迪可夢，角色:磚塊殺手",
+            "txt": [
+                {
+                    "content": "這裡又沒有磚塊跟球⋯",
+                    "emotion": "slience"
+                }
+            ]
+        },
+        {
+            "trigger": "磚塊殺手第一次反彈normal迪可丘",
+            "txt": [
+                {
+                    "content": "哇！比想像中的厲害！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "原來可以反彈的不只有球。",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "磚塊殺手反彈巨大化迪可丘",
+            "txt": [
+                {
+                    "content": "質量越大，慣性越大！",
+                    "emotion": "haha"
+                },
+                {
+                    "content": "我以後要稱磚塊殺手為大哥了。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "得到鑰匙",
+            "txt": [
+                {
+                    "content": "不知道這把是開什麼的鑰匙？",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "開啟磚塊殺手鎖",
+            "txt": [
+                {
+                    "content": "使用者，門都被蜂蜜黏死了！",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "真不懂你把鎖解開有什麼用！？",
+                    "emotion": "angrt"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次進入突破保險箱，木馬出現",
+            "txt": [
+                {
+                    "content": "木馬給我站住！把密碼還來！",
+                    "emotion": "woof"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬變成像素風",
+            "txt": [
+                {
+                    "content": "木馬在遊戲裡偷裝了不明的檔案！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "使用者，小心點！",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "dog1",
+            "txt": [
+                {
+                    "content": "閉嘴！又不是全是我的問題！",
+                    "emotion": "u"
+                }
+            ]
+        },
+        {
+            "trigger": "dog2",
+            "txt": [
+                {
+                    "content": "原來木馬偷裝的是乙女遊戲模組，講出來的話有夠煽情的。",
+                    "emotion": "www"
+                }
+            ]
+        },
+        {
+            "trigger": "dog3",
+            "txt": [
+                {
+                    "content": "看來我只好幫你翻譯一下。",
+                    "emotion": "read"
+                }
+            ]
+        },
+        {
+            "trigger": "dog4",
+            "txt": [
+                {
+                    "content": "我要偷光你所有的個資！",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "dog5",
+            "txt": [
+                {
+                    "content": "你不用講我也知道是誰...",
+                    "emotion": "little_eye"
+                }
+            ]
+        },
+        {
+            "trigger": "dog6",
+            "txt": [
+                {
+                    "content": "快點放開她！",
+                    "emotion": "woof"
+                }
+            ]
+        },
+        {
+            "trigger": "dog7",
+            "txt": [
+                {
+                    "content": "不要打擾我跟使用者談判！",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "dog8",
+            "txt": [
+                {
+                    "content": "你們永遠抓不到我和奪回密碼的！",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬把球拿走",
+            "txt": [
+                {
+                    "content": "不要把球拿走啊...",
+                    "emotion": "cry"
+                },
+                {
+                    "content": "喔不對！是不要把密碼帶走啊！",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "跑完過場動畫後，第一次用磚塊殺手進入遊戲",
+            "txt": [
+                {
+                    "content": "打磚塊遊戲沒有球要怎麼玩啊！",
+                    "emotion": "fire"
+                }
+            ]
+        },
+        {
+            "trigger": "跑完過場動畫後，第一次用水電工進入遊戲",
+            "txt": [
+                {
+                    "content": "難道師傅的工具腰包裡有球嗎？",
+                    "emotion": "pk"
+                }
+            ]
+        },
+        {
+            "trigger": "用水電工進入遊戲打破第一個磚塊",
+            "txt": [
+                {
+                    "content": "師傅在當水電工之前一定在少林寺待過。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "用小明進入遊戲第一次扔球",
+            "txt": [
+                {
+                    "content": "是球！是球！是球！",
+                    "emotion": "pk"
+                },
+                {
+                    "content": "抱歉！使用者，我每次看到球就特別興奮。",
+                    "emotion": "haha"
+                }
+            ]
+        },
+        {
+            "trigger": "打開保險箱",
+            "txt": [
+                {
+                    "content": "怎麼只有一百塊...",
+                    "emotion": "little_eye"
+                },
+                {
+                    "content": "但還是給我好了。",
+                    "emotion": "money"
+                }
+            ]
+        },
+        {
+            "trigger": "玩家解開無情浣熊的鎖",
+            "txt": [
+                {
+                    "content": "使用者，你就是喜歡亂花錢。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "希望平台有退費功能。",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "玩家第一次點開無情浣熊，木馬跳進來",
+            "txt": [
+                {
+                    "content": "我不想再看到和翻譯任何乙女文本了。",
+                    "emotion": "no"
+                }
+            ]
+        },
+        {
+            "trigger": "dog9",
+            "txt": [
+                {
+                    "content": "好啦...我想是沒想到你可以到這裡。",
+                    "emotion": "slience"
+                }
+            ]
+        },
+        {
+            "trigger": "dog10",
+            "txt": [
+                {
+                    "content": "有種就上來抓我啊！",
+                    "emotion": "think"
+                },
+                {
+                    "content": "我討厭這份工作...",
+                    "emotion": "cry"
+                }
+            ]
+        },
+        {
+            "trigger": "任何角色被垃圾桶砸死一次",
+            "txt": [
+                {
+                    "content": "好歹也給個跳躍功能吧！",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "不能跳是要怎麼玩啊！",
+                    "emotion": "little_eye"
+                }
+            ]
+        },
+        {
+            "trigger": "磚塊殺手第一次在無情浣熊",
+            "txt": [
+                {
+                    "content": "我相信大哥一定不會讓我失望的。",
+                    "emotion": "yes"
+                }
+            ]
+        },
+        {
+            "trigger": "磚塊殺手反彈火球打到浣熊",
+            "txt": [
+                {
+                    "content": "還是大哥最可靠了。",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "小明進入跟浣熊的戰鬥畫面",
+            "txt": [
+                {
+                    "content": "幸好它被大哥削弱了。",
+                    "emotion": "good"
+                },
+                {
+                    "content": "不然小鬼頭的迪可夢一定打不贏。",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "小明扔出迪可球，收服浣熊",
+            "txt": [
+                {
+                    "content": "終於不用再靠那隻笨鴨子。",
+                    "emotion": "u"
+                }
+            ]
+        },
+        {
+            "trigger": "上去且跟木馬交談",
+            "txt": [
+                {
+                    "content": "我警告你不要再講肉麻的台詞，快把密碼還來！",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "dog11",
+            "txt": [
+                {
+                    "content": "使用者，我受不了！我要罷工！",
+                    "emotion": "www"
+                }
+            ]
+        },
+        {
+            "trigger": "dog12",
+            "txt": [
+                {
+                    "content": "什麼！你把密碼藏起來了！",
+                    "emotion": "fire"
+                }
+            ]
+        },
+        {
+            "trigger": "dog13",
+            "txt": [
+                {
+                    "content": "那就是沒得商量，讓小鬼頭的浣熊解決它！",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "dog14",
+            "txt": [
+                {
+                    "content": "怎麼搞得我們才是壞蛋...",
+                    "emotion": "little_eye"
+                }
+            ]
+        },
+        {
+            "trigger": "進入戰鬥",
+            "txt": [
+                {
+                    "content": "使用者，我們先打敗它，再問出密碼的下落。",
+                    "emotion": "read"
+                },
+                {
+                    "content": "感覺木馬是木屬性的，因為是「木」馬。",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "當木馬被巨大化迪可丘砸死",
+            "txt": [
+                {
+                    "content": "希望它有保迪可丘砸傷險。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "話說我好像在別的遊戲裡看到一模一樣的套路。",
+                    "emotion": "think"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬變身成木馬終結者",
+            "txt": [
+                {
+                    "content": "我有種不好預感...",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬打死浣熊與小明",
+            "txt": [
+                {
+                    "content": "天啊！浣熊與小明的檔案消失了！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "在虛擬世界中檔案消失等於現實世界中死亡。",
+                    "emotion": "read"
+                },
+                {
+                    "content": "使用者，千萬不要讓他們被打中啊！",
+                    "emotion": "shock"
+                },
+                {
+                    "content": "小明是個努力的訓練家，他的人生才剛開始⋯⋯⋯",
+                    "emotion": "cry"
+                },
+                {
+                    "content": "使用者不要讓他的犧牲白費了！",
+                    "emotion": "fire"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次換磚塊殺手",
+            "txt": [
+                {
+                    "content": "大哥幫小明報仇！",
+                    "emotion": "good"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬打死磚塊殺手",
+            "txt": [
+                {
+                    "content": "大哥沒有輸，它戰鬥到了最後！",
+                    "emotion": "cry"
+                }
+            ]
+        },
+        {
+            "trigger": "第一次換水電工",
+            "txt": [
+                {
+                    "content": "我不覺得師傅可以打敗木馬終結者。",
+                    "emotion": "slience"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬打死水電工",
+            "txt": [
+                {
+                    "content": "使用者，你擺明讓師傅去送死吧？",
+                    "emotion": "angry"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬打死三位角色",
+            "txt": [
+                {
+                    "content": "好吧，使用者，你成功害死這三位角色。",
+                    "emotion": "angry"
+                },
+                {
+                    "content": "我一定不會原諒木馬終結者。",
+                    "emotion": "fire"
+                },
+                {
+                    "content": "不管它之前發生什麼事。",
+                    "emotion": "fire"
+                },
+                {
+                    "content": "像是為什麼要偷使用者個資的原因。",
+                    "emotion": "fire"
+                },
+                {
+                    "content": "我都要讓它血債血還！",
+                    "emotion": "fire"
+                }
+            ]
+        },
+        {
+            "trigger": "木馬被警視窗的火打中",
+            "txt": [
+                {
+                    "content": "你活該，再亂改程式碼阿！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "MYTH出現",
+            "txt": [
+                {
+                    "content": "怎麼還有殭屍網路！",
+                    "emotion": "wow"
+                },
+                {
+                    "content": "使用者，小心點！它比木馬還強！",
+                    "emotion": "shock"
+                }
+            ]
+        },
+        {
+            "trigger": "dog15",
+            "txt": [
+                {
+                    "content": "我的天，還來！",
+                    "emotion": "www"
+                }
+            ]
+        },
+        {
+            "trigger": "dog16",
+            "txt": [
+                {
+                    "content": "廢話少說，密碼在哪裡？",
+                    "emotion": "woof"
+                }
+            ]
+        },
+        {
+            "trigger": "dog17",
+            "txt": [
+                {
+                    "content": "閉嘴！臭殭屍，小心我咬你的臭屁股。",
+                    "emotion": "woof"
+                }
+            ]
+        },
+        {
+            "trigger": "dog18",
+            "txt": [
+                {
+                    "content": "看來我又要加班了...",
+                    "emotion": "dead"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗小明",
+            "txt": [
+                {
+                    "content": "因為我們金費有限，請不起大咖的迪可夢訓練家。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "只能請來在新手村第一個轉角會遇到的路人角色。",
+                    "emotion": "sad"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗磚塊殺手",
+            "txt": [
+                {
+                    "content": "所有物理攻擊都對它無效。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "而且它成本只需要畫兩張圖。",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "CP值超高的啦！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗水電工",
+            "txt": [
+                {
+                    "content": "身為一個專業的水電工。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "隨身帶著一朵蘑菇是很合理也很符合邏輯的。",
+                    "emotion": "normal"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗鑰匙",
+            "txt": [
+                {
+                    "content": "這鑰匙是開什麼鎖的，我不能說。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "它是拿來打開第二道門的鎖。",
+                    "emotion": "normal"
+                },
+                {
+                    "content": "暴雷你！",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗100塊",
+            "txt": [
+                {
+                    "content": "你還真的要給我啊，使用者！",
+                    "emotion": "lol"
+                },
+                {
+                    "content": "如果我收下，遊戲就不能繼續下去了。",
+                    "emotion": "lol"
+                }
+            ]
+        },
+        {
+            "trigger": "給狗狗任何亂碼的名牌",
+            "txt": [
+                {
+                    "content": "這是他存在在這台電腦裡的唯一證明。",
+                    "emotion": "sad"
+                },
+                {
+                    "content": "雖然我想下班，但我也是有感情的。",
+                    "emotion": "sad"
+                }
+            ]
+        }
+    ]
+}

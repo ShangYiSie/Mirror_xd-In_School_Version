@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dinosaur_EatAni
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 9fc6d1d7180e5854480c8762103465f2, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: 95c4e33268dc3114c9cb101e6cf17a12, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: 60a4900fe09442f4991e39c689b611a6, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 4767baae0151b7f4cbd28733095c2341, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: d3131bccc2ab6154eb459c4eb6034bef, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 6b09af02994a8c5418832d04c2c37fd9, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: c0955c7566ed495469806d6b39408f97, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: b8cc82c4b0065fc43a8cc38a5bdf871b, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: a4315c5797314d6498d2c95bff8722d8, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: 9b59040bb7810d7429a3cc5bfb1d9195, type: 3}
+    - time: 1.25
+      value: {fileID: 21300000, guid: f21dc31b08d0e5e4b9273d306955e96c, type: 3}
+    - time: 1.3333334
+      value: {fileID: 21300000, guid: a098d28e44ee9a643a55b8369fe427ea, type: 3}
+    - time: 1.5
+      value: {fileID: 21300000, guid: e81b7f23526954a4f8a0732c1f1d4d5b, type: 3}
+    - time: 1.75
+      value: {fileID: 21300000, guid: 32a18a5814ef7ce4e92c8a7a2a42c81c, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 9fc6d1d7180e5854480c8762103465f2, type: 3}
+    - {fileID: 21300000, guid: 95c4e33268dc3114c9cb101e6cf17a12, type: 3}
+    - {fileID: 21300000, guid: 60a4900fe09442f4991e39c689b611a6, type: 3}
+    - {fileID: 21300000, guid: 4767baae0151b7f4cbd28733095c2341, type: 3}
+    - {fileID: 21300000, guid: d3131bccc2ab6154eb459c4eb6034bef, type: 3}
+    - {fileID: 21300000, guid: 6b09af02994a8c5418832d04c2c37fd9, type: 3}
+    - {fileID: 21300000, guid: c0955c7566ed495469806d6b39408f97, type: 3}
+    - {fileID: 21300000, guid: b8cc82c4b0065fc43a8cc38a5bdf871b, type: 3}
+    - {fileID: 21300000, guid: a4315c5797314d6498d2c95bff8722d8, type: 3}
+    - {fileID: 21300000, guid: 9b59040bb7810d7429a3cc5bfb1d9195, type: 3}
+    - {fileID: 21300000, guid: f21dc31b08d0e5e4b9273d306955e96c, type: 3}
+    - {fileID: 21300000, guid: a098d28e44ee9a643a55b8369fe427ea, type: 3}
+    - {fileID: 21300000, guid: e81b7f23526954a4f8a0732c1f1d4d5b, type: 3}
+    - {fileID: 21300000, guid: 32a18a5814ef7ce4e92c8a7a2a42c81c, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.8333334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.25
+    functionName: DinoEatXAudio
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8333333
+    functionName: DinoEatXReverseAudio
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.5
+    functionName: DinoSwallowX
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.6666666
+    functionName: BtnPlayerClickCursor
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.75
+    functionName: ChangeYee
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.75
+    functionName: DinasorCallBGM
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

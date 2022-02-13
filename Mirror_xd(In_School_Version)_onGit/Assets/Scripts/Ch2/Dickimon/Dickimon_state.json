@@ -1,0 +1,1282 @@
+{
+    "DickmonStates": [
+        {
+            "NowEnemyName": "迪可丘",
+            "EnemyLV": 69,
+            "NowState": [
+                {
+                    "NowCharatername": "XiaoMing",
+                    "PlayerLV": 17,
+                    "PlayerHP": 31,
+                    "dialog": [
+                        "哇!野生的迪可丘出現了!",
+                        "就決定是你了!長頸鴨"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "口袋",
+                            "迪可夢",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "長頸鴨要做什麼?",
+                            "小明把買背包的錢，\n拿去買愛心寶貝球了...",
+                            "小明只有更多的長頸鴨!",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心寶貝球",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "長頸鴨",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "Level:17 \n屬性:水",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "小明使用愛心寶貝球!",
+                                "迪可丘用尾巴拍走了愛心寶貝球!",
+                                "可惜!可能下一顆就抓到了!"
+                            ],
+                            "Dickimonfeedbackstr": [
+                                "回來吧!長頸鴨",
+                                "就決定是你了!長頸鴨"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "迪可丘使用福特攻擊!",
+                                "效果群拔!",
+                                "長頸鴨倒下了!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "捨身衝撞",
+                            "噴水",
+                            "泡沫",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP     /4      屬性:一般",
+                            "PP     /7      屬性:水",
+                            "PP     /7      屬性:水",
+                            ""
+                        ],
+                        "skill_feedback": [
+                            "長頸鴨使用捨身衝撞!",
+                            "長頸鴨使用噴水!",
+                            "長頸鴨使用泡沫!",
+                            ""
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "BricksKiller",
+                    "PlayerLV": 3,
+                    "PlayerHP": 7,
+                    "dialog": [
+                        "哇!野生的迪可丘出現了!",
+                        "..."
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "--",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "磚塊殺手要做什麼??",
+                            "--",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "",
+                                ""
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "迪可丘被彈回去了!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "反彈",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "迪可丘使用福特攻擊!"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "Plumber",
+                    "PlayerLV": 5,
+                    "PlayerHP": 13,
+                    "dialog": [
+                        "哇!野生的迪可丘出現了!",
+                        "請問有人叫抓漏嗎?"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "腰包",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "水電工要做什麼?",
+                            "工具腰包工作必備!",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心蘑菇",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "對迪可丘使用愛心蘑菇!",
+                                "已經沒有愛心蘑菇了!"
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "--"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "水電工及時躲避了迪可丘的攻擊"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "跳躍",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "迪可丘使用福特攻擊!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "NowEnemyName": "巨大迪可丘",
+            "EnemyLV": 69,
+            "NowState": [
+                {
+                    "NowCharatername": "XiaoMing",
+                    "PlayerLV": 17,
+                    "PlayerHP": 31,
+                    "dialog": [
+                        "哇!野生的巨大迪可丘出現了!",
+                        "就決定是你了!長頸鴨"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "口袋",
+                            "迪可夢",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "長頸鴨要做什麼?",
+                            "小明把買背包的錢，\n拿去買愛心寶貝球了...",
+                            "小明只有更多的長頸鴨!",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心寶貝球",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "長頸鴨",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "Level:17 \n屬性:水",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "小明使用愛心寶貝球!",
+                                "迪可丘用尾巴拍走了愛心寶貝球!",
+                                "可惜!可能下一顆就抓到了!"
+                            ],
+                            "Dickimonfeedbackstr": [
+                                "回來吧!長頸鴨",
+                                "就決定是你了!長頸鴨"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "迪可丘使用福特攻擊!",
+                                "效果群拔!",
+                                "長頸鴨倒下了!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "捨身衝撞",
+                            "噴水",
+                            "泡沫",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP     /4      屬性:一般",
+                            "PP     /7      屬性:水",
+                            "PP     /7      屬性:水",
+                            ""
+                        ],
+                        "skill_feedback": [
+                            "長頸鴨使用捨身衝撞!",
+                            "長頸鴨使用噴水!",
+                            "長頸鴨使用泡沫!",
+                            ""
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "BricksKiller",
+                    "PlayerLV": 3,
+                    "PlayerHP": 7,
+                    "dialog": [
+                        "哇!野生的巨大迪可丘出現了!",
+                        "..."
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "--",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "磚塊殺手要做什麼??",
+                            "--",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "",
+                                ""
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "迪可丘身上的鑰匙掉下來了!",
+                                "你獲得了鑰匙!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "反彈",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "迪可丘使用福特攻擊!",
+                            "迪可丘被彈飛了!"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "Plumber",
+                    "PlayerLV": 5,
+                    "PlayerHP": 13,
+                    "dialog": [
+                        "哇!野生的巨大迪可丘出現了!",
+                        "請問有人叫抓漏嗎?"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "腰包",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "水電工要做什麼?",
+                            "工具腰包工作必備!",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心蘑菇",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "迪可丘變巨大了",
+                                "已經沒有愛心蘑菇了!"
+                            ],
+                            "Dickmonfeedbackstr": [
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "水電工被巨大的迪可丘撞飛了!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "跳躍",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "迪可丘使用福特攻擊!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "NowEnemyName": "無情浣熊",
+            "EnemyLV": 89,
+            "NowState": [
+                {
+                    "NowCharatername": "XiaoMing",
+                    "PlayerLV": 17,
+                    "PlayerHP": 31,
+                    "dialog": [
+                        "哇!野生的無情浣熊出現了!",
+                        "就決定是你了!長頸鴨"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "口袋",
+                            "迪可夢",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "長頸鴨要做什麼?",
+                            "小明把買背包的錢，\n拿去買愛心寶貝球了...",
+                            "小明只有更多的長頸鴨!",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心寶貝球",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "長頸鴨",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "Level:17 \n屬性:水",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "小明使用愛心寶貝球!",
+                                "太棒了!成功收服了無情浣熊"
+                            ],
+                            "Dickimonfeedbackstr": [
+                                "回來吧!長頸鴨",
+                                "就決定是你了!長頸鴨"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "無情浣熊暈倒了!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "捨身衝撞",
+                            "噴水",
+                            "泡沫",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP     /4      屬性:一般",
+                            "PP     /7      屬性:水",
+                            "PP     /7      屬性:水",
+                            ""
+                        ],
+                        "skill_feedback": [
+                            "長頸鴨使用捨身衝撞!",
+                            "長頸鴨使用噴水!",
+                            "長頸鴨使用泡沫!",
+                            ""
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "BricksKiller",
+                    "PlayerLV": 3,
+                    "PlayerHP": 7,
+                    "dialog": [
+                        "哇!野生的無情浣熊出現了!",
+                        "..."
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "--",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "磚塊殺手要做什麼??",
+                            "--",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "",
+                                ""
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "什麼事都沒有發生..."
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "反彈",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "無情浣熊暈倒了!"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "Plumber",
+                    "PlayerLV": 5,
+                    "PlayerHP": 13,
+                    "dialog": [
+                        "哇!野生的無情浣熊出現了!",
+                        "臭浣熊!我家的水管每次被你給破壞!"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "腰包",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "水電工要做什麼?",
+                            "工具腰包工作必備!",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心蘑菇",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "迪可丘變巨大了",
+                                "已經沒有愛心蘑菇了!"
+                            ],
+                            "Dickmonfeedbackstr": [
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "什麼事都沒有發生..."
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "跳躍",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "無情浣熊暈倒了!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "NowEnemyName": "木馬病毒",
+            "EnemyLV": 97,
+            "NowState": [
+                {
+                    "NowCharatername": "XiaoMing",
+                    "PlayerLV": 17,
+                    "PlayerHP": 31,
+                    "dialog": [
+                        "哇!超有型與最厲害的木馬病毒出現了!",
+                        "木馬病毒搶先使用木板!",
+                        "把鏡子遮住了!",
+                        "就決定是你了!無情浣熊"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "口袋",
+                            "迪可夢",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "無情浣熊要做什麼?",
+                            "小明把買背包的錢，\n拿去買愛心寶貝球了...",
+                            "小明只有更多的長頸鴨!",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心寶貝球",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "長頸鴨",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "Level:17 \n屬性:水",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "巨大的迪可丘砸中了木馬病毒!",
+                                "會心一擊!"
+                            ],
+                            "Dickimonfeedbackstr": [
+                                "巨大的迪可丘砸中了木馬病毒!",
+                                "會心一擊!"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "會心一擊!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "垃圾桶攻擊",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP    5/5     屬性:格鬥",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "巨大的迪可丘砸中了木馬病毒!",
+                            "--",
+                            "--",
+                            "--"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "BricksKiller",
+                    "PlayerLV": 3,
+                    "PlayerHP": 7,
+                    "dialog": [
+                        "哇!超有型與最厲害的木馬病毒出現了!",
+                        "木馬病毒搶先使用木板!",
+                        "把鏡子遮住了!",
+                        "..."
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "--",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "磚塊殺手要做什麼??",
+                            "--",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "",
+                                ""
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "會心一擊!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "反彈",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "巨大的迪可丘砸中了木馬病毒!"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "Plumber",
+                    "PlayerLV": 5,
+                    "PlayerHP": 13,
+                    "dialog": [
+                        "哇!超有型與最厲害的木馬病毒出現了!",
+                        "木馬病毒搶先使用木板!",
+                        "把鏡子遮住了!",
+                        "現在的玩具還真發達!"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "腰包",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "水電工要做什麼?",
+                            "工具腰包工作必備!",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心蘑菇",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "迪可丘變巨大了",
+                                "已經沒有愛心蘑菇了!"
+                            ],
+                            "Dickmonfeedbackstr": [
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "會心一擊!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "跳躍",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "巨大的迪可丘砸中了木馬病毒!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "NowEnemyName": "木馬終結者",
+            "EnemyLV": 97,
+            "NowState": [
+                {
+                    "NowCharatername": "XiaoMing",
+                    "PlayerLV": 17,
+                    "PlayerHP": 31,
+                    "dialog": [
+                        "木馬病毒變身成木馬終結者!",
+                        "木馬終結者:「你們是跑不掉的!」",
+                        "木馬終結者使用刪除死光!!",
+                        "%情*熊#*^@站在^&後方的小明也被打中$%"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "口袋",
+                            "迪可夢",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "無情浣熊要做什麼?",
+                            "小明把買背包的錢，\n拿去買愛心寶貝球了...",
+                            "小明只有更多的長頸鴨!",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心寶貝球",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "長頸鴨",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "Level:17 \n屬性:水",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "小明使用愛心寶貝球!",
+                                "太棒了!成功收服了無情浣熊"
+                            ],
+                            "Dickimonfeedbackstr": [
+                                "回來吧!長頸鴨",
+                                "就決定是你了!長頸鴨"
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "會心一擊!"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "垃圾桶攻擊",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP    5/5     屬性:格鬥",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "巨大的迪可丘砸中了木馬病毒!",
+                            "--",
+                            "--",
+                            "--"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "BricksKiller",
+                    "PlayerLV": 3,
+                    "PlayerHP": 7,
+                    "dialog": [
+                        "無敵的木馬終結者出現了!"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "--",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "磚塊殺手要做什麼??",
+                            "--",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "",
+                                ""
+                            ],
+                            "Dickmonfeedbackstr": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "木馬終結者使用刪除死光!!",
+                                "%#*%*$#^^%&@"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "反彈",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "木馬終結者:「你們是跑不掉的!」"
+                        ]
+                    }
+                },
+                {
+                    "NowCharatername": "Plumber",
+                    "PlayerLV": 5,
+                    "PlayerHP": 13,
+                    "dialog": [
+                        "無敵的木馬終結者出現了!"
+                    ],
+                    "Menu": {
+                        "MenuListstr": [
+                            "戰鬥",
+                            "腰包",
+                            "--",
+                            "逃跑"
+                        ],
+                        "MenuTwofeedbackstr": [
+                            "水電工要做什麼?",
+                            "工具腰包工作必備!",
+                            "--",
+                            "逃避雖可恥但有用!"
+                        ],
+                        "Bag": {
+                            "Bag_L": [
+                                "愛心蘑菇",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Bag_R": [
+                                "數量:",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Dickimon": {
+                            "Dickimon_L": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ],
+                            "Dickimon_R": [
+                                "--",
+                                "--",
+                                "--",
+                                "--"
+                            ]
+                        },
+                        "Menufullfeedback": {
+                            "Bagfeedbackstr": [
+                                "已經沒有愛心蘑菇了!",
+                                "木馬終結者:「你們是跑不掉的!」",
+                                "木馬終結者使用刪除死光!!",
+                                "%#*%*$#^^%&@"
+                            ],
+                            "Dickmonfeedbackstr": [
+                                ""
+                            ],
+                            "DickimonAtkFeedbackstr": [
+                                "木馬終結者使用刪除死光!!",
+                                "%#*%*$#^^%&@"
+                            ]
+                        }
+                    },
+                    "skills": {
+                        "skill_name": [
+                            "跳躍",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_detail": [
+                            "PP ∞/∞     屬性:一般",
+                            "--",
+                            "--",
+                            "--"
+                        ],
+                        "skill_feedback": [
+                            "木馬終結者:「你們是跑不掉的!」"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
